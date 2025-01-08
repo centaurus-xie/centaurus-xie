@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @centaurus-xie
+- 👋 Hi, I’m @centaurus-xie, now studying software engineering in Xi'an Jiaotong University.
 - 👀 I’m interested in travelling & history & Biology & Earth Science & Photographing & ...
 - 🌱 I’m currently learning some brief promgramming languages and tools.
 - 📫 How to reach me: centaurusxie@foxmail.com || yuanrui2004@gmail.com
