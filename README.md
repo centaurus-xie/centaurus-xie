@@ -48,13 +48,14 @@ You can click the Preview link to take a look at your changes.
 
 Here are some of my notable projects:
 
+- [Nailong Folder Tool](https://github.com/centaurus-xie/Nailong-Folder-Tool): Put the cute Nailong in your right-click menu and let him help you create a folder for video clip projects
 - [About me](https://github.com/centaurus-xie/centaurus-xie.github.io): My Academic Homepage.
 - [OpenGL tellurian](https://github.com/centaurus-xie/OpenGL_Tellurion): A tellurion rendered with OpenGL.
 
-## Support My Work
+<!---## Support My Work
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/centaurusxie)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/centaurusxie)--->
 
 Thank you for visiting my profile! Have a great day! 😄
