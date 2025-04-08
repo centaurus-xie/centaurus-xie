@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 
 ## GitHub Stats
 
