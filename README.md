@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue,js-333333?style=flat&logo=vuedotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## GitHub Stats
