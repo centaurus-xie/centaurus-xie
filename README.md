@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-- 🎓 Software Engineering Year3 in Xi'an Jiaotong University.
+- 🎓 BEng SE @XJTU, MSc IT @HKUST
 - 🌐 Interested in web development, cloud computing, and AI
 - 📚 Always eager to learn new technologies and improve my skills
 - 👀 Also interested in Travelling & History & Biology & Earth Science & Photographing & ...
