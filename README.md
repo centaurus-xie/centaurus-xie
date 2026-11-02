@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.
 ## Contact Me
 
 - 📧 Email: [yuanrui2004@gmail.com](mailto:centaurusxie@gmail.com)
-- 💼 LinkedIn: [centaurus-xie](https://www.linkedin.com/in/centaurus-xie/)
-- 🐦 Instagram: [@centaurus.tse](https://www.instagram.com/centaurus.tse)
+- 💼 LinkedIn: [cyrus-tse-yuanrui](www.linkedin.com/in/cyrus-tse-yuanrui)
+- 🐦 Instagram: [@cyrtsedate](https://www.instagram.com/cyrtsedate)
 
 ## Contributions
 
